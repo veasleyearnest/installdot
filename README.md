@@ -13,3 +13,4 @@
 ### Future optimizations
 
 - Improve install script by automating step 3 above, initializing the `zsh` environment
+# .installdot
